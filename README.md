@@ -7,7 +7,7 @@ Multisig holding project LPs aswell as ownership of Future contracts.
 
 By the community, for the community.
 
-
+Twitter : https://twitter.com/Erebus4488
 TG : https://t.me/SamuraiFinance
 JustSwap Liquidity Pool for the governance token : https://justswap.io/?lang=en-US#/scan/detail/trx/TQVdgh65fciwM6V3yWJW3L3zrFHs4v237A 
 
