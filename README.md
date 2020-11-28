@@ -14,3 +14,8 @@ JustSwap Pair Contract: https://tronscan.org/#/contract/TYYomcwwDtuxcLUZEWbWdhDB
 Tronscan Contract: https://tronscan.org/#/contract/TQVdgh65fciwM6V3yWJW3L3zrFHs4v237A/code
 
 Website in development.
+
+Organic growth, up.
+
+
+<img src="https://siasky.net/KABtYM16Q5JBjh9hlH-enN0YAw6vE745XwGgoYwnthrz-A" alt="one direction">
