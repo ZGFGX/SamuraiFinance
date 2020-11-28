@@ -6,3 +6,8 @@ Project towards community governance on the TRON network.
 Multisig holding project LPs aswell as ownership of Future contracts.
 
 By the community, for the community.
+
+
+TG : https://t.me/SamuraiFinance
+
+Website in development.
